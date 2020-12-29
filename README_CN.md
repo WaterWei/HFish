@@ -27,11 +27,10 @@
 ## 介绍
 
 
-> 本项目使用 **GPL** 协议，未经授权，禁止使用商业用途。
->
-> *本 Team 研发此平台，仅为企业安全测试使用，禁止其他人员使用非法用途！一切行为与本 Team 无关。*
+>Licensed under the GNU General Public License (GPL) v3. 
+>本项目使用 **GPL V3** 协议，个人或企业内部可自由的接入和使用。
 
-**HFish** 是一款基于 Golang 开发的跨平台蜜罐平台，为了企业安全做出了精心的打造
+**HFish** 是一款基于 Golang 开发的跨平台蜜罐平台，部署方便，运行稳定。
 
 
 - **多功能**： 不仅仅支持 `HTTP(S)` 蜜罐，还支持 `SSH`、`SFTP`、`Redis`、`Mysql`、`FTP`、`Telnet`、`暗网` 等
@@ -123,21 +122,9 @@
 ## 关于
 
 
-> 目前只有我一个人
-
-
-**Team：** HackLC
-
-
-**官网：** https://hack.lc
-
-
-**专注安全行业，一心打造好产品**
-
-
 ## 联系我
 
-**E-mail:** **`lauixData#gmail.com`**
+**E-mail:** **`water@hfish.io`**
 
 
 ## 反馈群
