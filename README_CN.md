@@ -123,13 +123,7 @@
 ## 关于
 
 
-> 目前只有我一个人
-
-
-**Team：** HackLC
-
-
-**官网：** https://hack.lc
+**官网：** https://hfish.io
 
 
 **专注安全行业，一心打造好产品**
@@ -137,7 +131,7 @@
 
 ## 联系我
 
-**E-mail:** **`lauixData#gmail.com`**
+**E-mail:** **`water@hfish.io`**
 
 
 ## 反馈群
